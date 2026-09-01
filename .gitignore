@@ -1,0 +1,12 @@
+# Obsidian
+.obsidian/
+.trash/
+*.tmp
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
